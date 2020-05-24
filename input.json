@@ -1,0 +1,117 @@
+{
+    "events": {
+        "signup": {
+            "path": "/visitors/events/",
+            "value": {
+                "fingerprint": "5d4697775392fc850a737fe225fbd8e9",
+                "sessionId": "0da4fc08-3f12-5890-fdce-2455fc17c394",
+                "visitorId": "be4ab37a-1de9a0f0-f973-562b7cd4365e",
+                "trackingId": "",
+                "userId": null,
+                "userProfile": null,
+                "geo": {
+                    "latitude": 28.58,
+                    "longitude": 77.33,
+                    "city": "Noida",
+                    "country": "India",
+                    "ip": "103.83.128.66"
+                },
+                "form": {
+                    "formId": "2bc04127-92d8-eb72-b1d3-26dc63f6ff19",
+                    "email": "agency@gmail.com",
+                    "anonymous": "Login"
+                },
+                "timestamp": "",
+                "event": "formsubmit",
+                "source": {
+                    "url": {
+                        "host": "app.useinfluence.co",
+                        "hostname": "app.useinfluence.co",
+                        "pathname": "/login",
+                        "protocol": "https:"
+                    }
+                },
+                "referrer": ""
+            }
+        },
+        "User-event": {
+            "path": "/visitors/events/",
+            "value": {
+                "fingerprint": "5d4697775392fc850a737fe225fbd8e9",
+                "sessionId": "25ad9867-e9a5-cedf-0fc4-0c30b1c2a505",
+                "visitorId": "1bfdd0e4-2629-6ef9-21ea-9f1b1f11fe02",
+                "trackingId": "",
+                "userId": null,
+                "userProfile": null,
+                "geo": {
+                    "latitude": 28.58,
+                    "longitude": 77.33,
+                    "city": "Noida",
+                    "country": "India",
+                    "ip": "103.83.128.17"
+                },
+                "target": {
+                    "id": "FPqR3acHqJeA3acH7MM9_0",
+                    "selector": "div#FPqR2DbIqJeA2DbI7MM9_0.animated_FPqR2bI7Mf_c.slideInDown:nth-child(23)>div#FPqR3tRBqJeA3tRB7MM9_0:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(2)>div#FPqR3dGiqJeA3dGi7MM9_0:nth-child(1)>div.FPqR2B_4qJeA2B_47MM9_0.rounded.FPqRD2zVqJeAD2zV7MM9_0:nth-child(1)>div#FPqR3acHqJeA3acH7MM9_0:nth-child(1)"
+                },
+                "timestamp": "",
+                "event": "click",
+                "source": {
+                    "url": {
+                        "host": "useinfluence.co",
+                        "hostname": "useinfluence.co",
+                        "pathname": "/",
+                        "protocol": "https:"
+                    }
+                },
+                "referrer": ""
+            }
+        },
+        "logout": {
+            "path": "/visitors/events/",
+            "value": {
+                "fingerprint": "5d4697775392fc850a737fe225fbd8e9",
+                "sessionId": "0da4fc08-3f12-5890-fdce-2455fc17c394",
+                "visitorId": "be4ab37a-1de9a0f0-f973-562b7cd4365e",
+                "trackingId": "",
+                "userId": null,
+                "userProfile": null,
+                "geo": {
+                    "latitude": 28.58,
+                    "longitude": 77.33,
+                    "city": "Noida",
+                    "country": "India",
+                    "ip": "103.83.128.66"
+                },
+                "form": {
+                    "formId": "2bc04127-92d8-eb72-b1d3-26dc63f6ff19",
+                    "email": "agency@gmail.com",
+                    "anonymous": "Login"
+                },
+                "timestamp": "",
+                "event": "formsubmit",
+                "source": {
+                    "url": {
+                        "host": "app.useinfluence.co",
+                        "hostname": "app.useinfluence.co",
+                        "pathname": "/logout",
+                        "protocol": "https:"
+                    }
+                },
+                "referrer": ""
+            }
+        }
+    },
+    "tracking-ids": {
+        "1": "INF-yj562hjojzbtez",
+        "2": "INF-3gbfcjjsd6vhvo",
+        "3": "INF-ixpktk3itsk86",
+        "4": "INF-1bi5qk0zocqcz",
+        "5": "INF-1bi6qk0zocqce",
+        "6": "INF-ixpktk5itsk68",
+        "7": "INF-ixpktk3itsk98",
+        "8": "INF-ixpktk3itsk97",
+        "9": "INF-ixpktk3itsk96",
+        "10": "INF-ixpktk3itsk95"
+    }
+}
